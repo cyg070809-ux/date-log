@@ -1,6 +1,6 @@
 {
-  "name": "데이트로그",
-  "short_name": "데이트로그",
+  "name": "데이트 로그",
+  "short_name": "데이트 로그",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
